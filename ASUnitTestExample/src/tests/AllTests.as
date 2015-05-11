@@ -1,4 +1,4 @@
-package testsrc {
+package tests {
 	import asunit.framework.TestSuite;
 	 /*
 	 * ================================================================================
@@ -13,6 +13,7 @@ package testsrc {
 	 /**
 	 * @author Matthew Miller
 	 */
+	 
 	public class AllTests extends TestSuite 
 	{
 		//PROPERTIES / Variables

@@ -1,5 +1,4 @@
-package testsrc
-{
+package tests {
 	import asunit.framework.TestCase;
 	
 	/*
@@ -15,6 +14,7 @@ package testsrc
 	/**
 	 * @author Matthew Miller
 	 */
+	
 	public class TestFirstTry extends TestCase
 	{
 		//PROPERTIES / Variables

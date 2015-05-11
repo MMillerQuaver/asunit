@@ -2,12 +2,12 @@ package
 {
 	import asunit.textui.TestRunner;
 	import flash.display.Sprite;
-	import testsrc.AllTests;
+	import tests.AllTests;
 
 	/**
-	 * ...
 	 * @author Matthew Miller
 	 */
+	
 	public class Main extends Sprite
 	{
 		public function Main():void
